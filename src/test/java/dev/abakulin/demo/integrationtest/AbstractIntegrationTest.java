@@ -1,5 +1,6 @@
-package dev.abakulin.demo;
+package dev.abakulin.demo.integrationtest;
 
+import dev.abakulin.demo.DemoApplication;
 import org.junit.ClassRule;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
