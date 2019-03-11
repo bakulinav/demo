@@ -7,7 +7,7 @@ services:
     restart: always
     environment:
       POSTGRES_DB: demo
-      POSTGRES_USER: abakulin
+      POSTGRES_USER: abakulinw
       POSTGRES_PASSWORD: secret
     ports:
       - 5432:5432
